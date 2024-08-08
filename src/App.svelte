@@ -86,7 +86,9 @@
   </div>
   <div class='spacer' />
   <div class="content">
-    <p>I didn't always like horror movies. In fact, I tended to avoid the genre altogether.
+    <p>I didn't always like horror movies. In fact, I tended to avoid the genre altogether. But some time in the last few years, I started to take notice in how entertaining yet insightful
+      horror movies could be in their social commentary. My appreciation for the horror genre has only grown as I discovered more horror movies with complex female characters that captured
+      all of the intense emotions women experience - their fear, rage, claustrophobia, quest for revenge or justice felt like my own.
     <br>
     <br>
     Used The Pudding Sci-Fi and Five Thirty Eight The Next Bechdel Test as a guide for movie analysis.
@@ -147,7 +149,11 @@
                 <br>
               For each movie, there is an explanation provided by ChatGPT 4.o as to how it categorized it.</p>
               {:else if text === 'd'}
-              <p><a href="https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597">"The Monstrous-Feminine"</a> by Barbara Creed talks about how women in horror movies are often shown as monstrous figures - the "monstrous" being the female reproductive body.
+              <p>
+                Next, I wanted to look at monsters.
+                <br>
+                <br>
+                <a href="https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597">"The Monstrous-Feminine"</a> by Barbara Creed talks about how women in horror movies are often shown as monstrous figures - the "monstrous" being the female reproductive body.
                 <br>
                 <br>
                 Using her book as a framework for analyzing the portrayal of women in horror movies, I gave Chat GPT 4.o the book blurb which defines "the monstrous-feminine"
