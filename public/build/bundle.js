@@ -1,5 +1,5 @@
 
-(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35730/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
+(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
 var app = (function () {
     'use strict';
 
@@ -27366,16 +27366,16 @@ var app = (function () {
     			a1 = element("a");
     			a1.textContent = "female director";
     			t8 = text$1(".");
-    			add_location(br0, file, 220, 18, 10977);
-    			add_location(br1, file, 221, 18, 11000);
-    			add_location(br2, file, 223, 18, 11087);
-    			add_location(br3, file, 224, 18, 11110);
+    			add_location(br0, file, 220, 18, 10930);
+    			add_location(br1, file, 221, 18, 10953);
+    			add_location(br2, file, 223, 18, 11040);
+    			add_location(br3, file, 224, 18, 11063);
     			attr_dev(a0, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a0, file, 225, 93, 11208);
+    			add_location(a0, file, 225, 93, 11161);
     			attr_dev(a1, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a1, file, 226, 18, 11278);
+    			add_location(a1, file, 226, 18, 11231);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 219, 16, 10883);
+    			add_location(p, file, 219, 16, 10836);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27424,9 +27424,9 @@ var app = (function () {
     			a.textContent = "female empowerment";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a, file, 217, 18, 10776);
+    			add_location(a, file, 217, 18, 10729);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 216, 16, 10714);
+    			add_location(p, file, 216, 16, 10667);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27465,9 +27465,9 @@ var app = (function () {
     			a.textContent = "female victimization";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a, file, 214, 18, 10605);
+    			add_location(a, file, 214, 18, 10558);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 213, 16, 10542);
+    			add_location(p, file, 213, 16, 10495);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27547,23 +27547,23 @@ var app = (function () {
     			t13 = space();
     			br7 = element("br");
     			t14 = text$1("\n                I then added more definitions for empowerment versus victimization, so Chat GPT 4.o would have more clear knowledge of how to categorize.");
-    			add_location(br0, file, 198, 18, 9461);
-    			add_location(br1, file, 199, 18, 9484);
+    			add_location(br0, file, 198, 18, 9414);
+    			add_location(br1, file, 199, 18, 9437);
     			attr_dev(a0, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a0, file, 200, 107, 9596);
+    			add_location(a0, file, 200, 107, 9549);
     			attr_dev(a1, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a1, file, 200, 163, 9652);
-    			add_location(br2, file, 201, 16, 9718);
-    			add_location(br3, file, 202, 16, 9739);
+    			add_location(a1, file, 200, 163, 9605);
+    			add_location(br2, file, 201, 16, 9671);
+    			add_location(br3, file, 202, 16, 9692);
     			attr_dev(a2, "href", "https://projects.fivethirtyeight.com/next-bechdel/");
     			attr_dev(a2, "class", "svelte-z0r2s5");
-    			add_location(a2, file, 203, 79, 9823);
-    			add_location(br4, file, 204, 18, 10005);
-    			add_location(br5, file, 206, 16, 10162);
-    			add_location(br6, file, 208, 16, 10288);
-    			add_location(br7, file, 209, 16, 10309);
+    			add_location(a2, file, 203, 79, 9776);
+    			add_location(br4, file, 204, 18, 9958);
+    			add_location(br5, file, 206, 16, 10115);
+    			add_location(br6, file, 208, 16, 10241);
+    			add_location(br7, file, 209, 16, 10262);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 197, 16, 9375);
+    			add_location(p, file, 197, 16, 9328);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27627,11 +27627,11 @@ var app = (function () {
     			a1.textContent = "die";
     			t4 = text$1(" at the end.");
     			attr_dev(a0, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a0, file, 195, 66, 9229);
+    			add_location(a0, file, 195, 66, 9182);
     			attr_dev(a1, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a1, file, 195, 109, 9272);
+    			add_location(a1, file, 195, 109, 9225);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 195, 16, 9179);
+    			add_location(p, file, 195, 16, 9132);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27672,9 +27672,9 @@ var app = (function () {
     			a.textContent = "Other";
     			t2 = text$1(" category.");
     			attr_dev(a, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a, file, 193, 44, 9075);
+    			add_location(a, file, 193, 44, 9028);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 193, 14, 9045);
+    			add_location(p, file, 193, 14, 8998);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27713,9 +27713,9 @@ var app = (function () {
     			a.textContent = "beauty and perfection";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag blue-bg svelte-z0r2s5");
-    			add_location(a, file, 191, 34, 8936);
+    			add_location(a, file, 191, 34, 8889);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 191, 14, 8916);
+    			add_location(p, file, 191, 14, 8869);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27754,9 +27754,9 @@ var app = (function () {
     			a.textContent = "female sexuality";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag green-bg svelte-z0r2s5");
-    			add_location(a, file, 189, 34, 8811);
+    			add_location(a, file, 189, 34, 8764);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 189, 14, 8791);
+    			add_location(p, file, 189, 14, 8744);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27795,9 +27795,9 @@ var app = (function () {
     			a.textContent = "gender-based violence";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag yellow-bg svelte-z0r2s5");
-    			add_location(a, file, 187, 34, 8680);
+    			add_location(a, file, 187, 34, 8633);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 187, 14, 8660);
+    			add_location(p, file, 187, 14, 8613);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27836,9 +27836,9 @@ var app = (function () {
     			a.textContent = "motherhood";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a, file, 185, 47, 8562);
+    			add_location(a, file, 185, 47, 8515);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 185, 14, 8529);
+    			add_location(p, file, 185, 14, 8482);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -27954,39 +27954,39 @@ var app = (function () {
     			t22 = space();
     			br10 = element("br");
     			t23 = text$1("\n                Perhaps unsurprisingly, gender-based violence is depicted the most in horror movies, followed by stories related to motherhood.");
-    			add_location(br0, file, 161, 16, 7396);
-    			add_location(br1, file, 162, 16, 7417);
-    			add_location(br2, file, 164, 16, 7520);
-    			add_location(br3, file, 165, 16, 7541);
-    			add_location(br4, file, 167, 16, 7696);
-    			add_location(br5, file, 168, 16, 7717);
-    			add_location(br6, file, 170, 16, 7785);
+    			add_location(br0, file, 161, 16, 7349);
+    			add_location(br1, file, 162, 16, 7370);
+    			add_location(br2, file, 164, 16, 7473);
+    			add_location(br3, file, 165, 16, 7494);
+    			add_location(br4, file, 167, 16, 7649);
+    			add_location(br5, file, 168, 16, 7670);
+    			add_location(br6, file, 170, 16, 7738);
     			attr_dev(p0, "class", "svelte-z0r2s5");
-    			add_location(p0, file, 160, 14, 7258);
+    			add_location(p0, file, 160, 14, 7211);
     			attr_dev(a0, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a0, file, 171, 19, 7809);
-    			add_location(br7, file, 172, 16, 7866);
+    			add_location(a0, file, 171, 19, 7762);
+    			add_location(br7, file, 172, 16, 7819);
     			attr_dev(p1, "class", "svelte-z0r2s5");
-    			add_location(p1, file, 171, 16, 7806);
+    			add_location(p1, file, 171, 16, 7759);
     			attr_dev(a1, "class", "bg-tag yellow-bg svelte-z0r2s5");
-    			add_location(a1, file, 174, 19, 7946);
+    			add_location(a1, file, 174, 19, 7899);
     			attr_dev(p2, "class", "svelte-z0r2s5");
-    			add_location(p2, file, 174, 16, 7943);
+    			add_location(p2, file, 174, 16, 7896);
     			attr_dev(a2, "class", "bg-tag green-bg svelte-z0r2s5");
-    			add_location(a2, file, 175, 19, 8023);
-    			add_location(br8, file, 176, 18, 8089);
+    			add_location(a2, file, 175, 19, 7976);
+    			add_location(br8, file, 176, 18, 8042);
     			attr_dev(p3, "class", "svelte-z0r2s5");
-    			add_location(p3, file, 175, 16, 8020);
+    			add_location(p3, file, 175, 16, 7973);
     			attr_dev(a3, "class", "bg-tag blue-bg svelte-z0r2s5");
-    			add_location(a3, file, 178, 19, 8161);
+    			add_location(a3, file, 178, 19, 8114);
     			attr_dev(p4, "class", "svelte-z0r2s5");
-    			add_location(p4, file, 178, 16, 8158);
+    			add_location(p4, file, 178, 16, 8111);
     			attr_dev(a4, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a4, file, 179, 19, 8236);
-    			add_location(br9, file, 180, 16, 8288);
-    			add_location(br10, file, 181, 16, 8309);
+    			add_location(a4, file, 179, 19, 8189);
+    			add_location(br9, file, 180, 16, 8241);
+    			add_location(br10, file, 181, 16, 8262);
     			attr_dev(p5, "class", "svelte-z0r2s5");
-    			add_location(p5, file, 179, 16, 8233);
+    			add_location(p5, file, 179, 16, 8186);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p0, anchor);
@@ -28071,9 +28071,9 @@ var app = (function () {
     			a.textContent = "monsters";
     			t2 = text$1(".");
     			attr_dev(a, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a, file, 158, 43, 7162);
+    			add_location(a, file, 158, 43, 7115);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 158, 14, 7133);
+    			add_location(p, file, 158, 14, 7086);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -28137,17 +28137,17 @@ var app = (function () {
     			t9 = text$1("?");
     			attr_dev(a0, "href", "https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597");
     			attr_dev(a0, "class", "svelte-z0r2s5");
-    			add_location(a0, file, 149, 17, 6224);
-    			add_location(br0, file, 150, 16, 6531);
-    			add_location(br1, file, 151, 16, 6552);
-    			add_location(br2, file, 154, 16, 6887);
-    			add_location(br3, file, 155, 16, 6908);
+    			add_location(a0, file, 149, 17, 6177);
+    			add_location(br0, file, 150, 16, 6484);
+    			add_location(br1, file, 151, 16, 6505);
+    			add_location(br2, file, 154, 16, 6840);
+    			add_location(br3, file, 155, 16, 6861);
     			attr_dev(a1, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a1, file, 156, 74, 6987);
+    			add_location(a1, file, 156, 74, 6940);
     			attr_dev(a2, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a2, file, 156, 119, 7032);
+    			add_location(a2, file, 156, 119, 6985);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 149, 14, 6221);
+    			add_location(p, file, 149, 14, 6174);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -28205,11 +28205,11 @@ var app = (function () {
     			br1 = element("br");
     			t4 = text$1("\n              For each movie, there is an explanation provided by ChatGPT 4.o as to how it categorized it.");
     			attr_dev(a, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a, file, 144, 86, 5911);
-    			add_location(br0, file, 145, 16, 6032);
-    			add_location(br1, file, 146, 16, 6053);
+    			add_location(a, file, 144, 86, 5864);
+    			add_location(br0, file, 145, 16, 5985);
+    			add_location(br1, file, 146, 16, 6006);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 144, 16, 5841);
+    			add_location(p, file, 144, 16, 5794);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -28311,34 +28311,34 @@ var app = (function () {
     			t18 = space();
     			br5 = element("br");
     			t19 = text$1("\n                  A lot of horror movies cast the leading lady in a \"traditional\" gender role associated with femininity and vulnerability.\n                  In 105 of the films, the protagonist adheres to one of the traditionally female roles, while 82 do not.");
-    			add_location(br0, file, 126, 18, 4853);
-    			add_location(br1, file, 127, 18, 4876);
+    			add_location(br0, file, 126, 18, 4806);
+    			add_location(br1, file, 127, 18, 4829);
     			attr_dev(p0, "class", "svelte-z0r2s5");
-    			add_location(p0, file, 125, 16, 4800);
+    			add_location(p0, file, 125, 16, 4753);
     			attr_dev(a0, "class", "bg-tag pink-bg svelte-z0r2s5");
-    			add_location(a0, file, 129, 19, 4951);
+    			add_location(a0, file, 129, 19, 4904);
     			attr_dev(p1, "class", "svelte-z0r2s5");
-    			add_location(p1, file, 129, 16, 4948);
+    			add_location(p1, file, 129, 16, 4901);
     			attr_dev(a1, "class", "bg-tag yellow-bg svelte-z0r2s5");
-    			add_location(a1, file, 130, 19, 5024);
+    			add_location(a1, file, 130, 19, 4977);
     			attr_dev(p2, "class", "svelte-z0r2s5");
-    			add_location(p2, file, 130, 16, 5021);
+    			add_location(p2, file, 130, 16, 4974);
     			attr_dev(a2, "class", "bg-tag blue-bg svelte-z0r2s5");
-    			add_location(a2, file, 131, 19, 5095);
-    			add_location(br2, file, 132, 18, 5184);
+    			add_location(a2, file, 131, 19, 5048);
+    			add_location(br2, file, 132, 18, 5137);
     			attr_dev(p3, "class", "svelte-z0r2s5");
-    			add_location(p3, file, 131, 16, 5092);
+    			add_location(p3, file, 131, 16, 5045);
     			attr_dev(a3, "class", "bg-tag green-bg svelte-z0r2s5");
-    			add_location(a3, file, 134, 19, 5258);
-    			add_location(br3, file, 135, 18, 5352);
+    			add_location(a3, file, 134, 19, 5211);
+    			add_location(br3, file, 135, 18, 5305);
     			attr_dev(p4, "class", "svelte-z0r2s5");
-    			add_location(p4, file, 134, 16, 5255);
+    			add_location(p4, file, 134, 16, 5208);
     			attr_dev(a4, "class", "bg-tag gray-bg svelte-z0r2s5");
-    			add_location(a4, file, 137, 19, 5419);
-    			add_location(br4, file, 138, 18, 5473);
-    			add_location(br5, file, 139, 18, 5496);
+    			add_location(a4, file, 137, 19, 5372);
+    			add_location(br4, file, 138, 18, 5426);
+    			add_location(br5, file, 139, 18, 5449);
     			attr_dev(p5, "class", "svelte-z0r2s5");
-    			add_location(p5, file, 137, 16, 5416);
+    			add_location(p5, file, 137, 16, 5369);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p0, anchor);
@@ -28425,12 +28425,12 @@ var app = (function () {
     			t3 = space();
     			br3 = element("br");
     			t4 = text$1("\n                  Hover to see each movie title.");
-    			add_location(br0, file, 117, 18, 4530);
-    			add_location(br1, file, 118, 18, 4553);
-    			add_location(br2, file, 120, 18, 4648);
-    			add_location(br3, file, 121, 18, 4671);
+    			add_location(br0, file, 117, 18, 4483);
+    			add_location(br1, file, 118, 18, 4506);
+    			add_location(br2, file, 120, 18, 4601);
+    			add_location(br3, file, 121, 18, 4624);
     			attr_dev(p, "class", "svelte-z0r2s5");
-    			add_location(p, file, 116, 16, 4437);
+    			add_location(p, file, 116, 16, 4390);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -28495,10 +28495,10 @@ var app = (function () {
     			if (if_block) if_block.c();
     			t = space();
     			attr_dev(div0, "class", "step-content svelte-z0r2s5");
-    			add_location(div0, file, 113, 12, 4304);
+    			add_location(div0, file, 113, 12, 4257);
     			attr_dev(div1, "class", "step svelte-z0r2s5");
     			toggle_class(div1, "active", /*currentStep*/ ctx[1] === /*index*/ ctx[29]);
-    			add_location(div1, file, 112, 10, 4234);
+    			add_location(div1, file, 112, 10, 4187);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div1, anchor);
@@ -28691,7 +28691,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 269, 6, 14412);
+    			add_location(img, file, 269, 6, 14365);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -28729,7 +28729,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 267, 6, 14222);
+    			add_location(img, file, 267, 6, 14175);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -28887,7 +28887,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 261, 6, 13591);
+    			add_location(img, file, 261, 6, 13544);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -28925,7 +28925,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 259, 6, 13409);
+    			add_location(img, file, 259, 6, 13362);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -28963,7 +28963,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 257, 6, 13225);
+    			add_location(img, file, 257, 6, 13178);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -29001,7 +29001,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 255, 6, 13042);
+    			add_location(img, file, 255, 6, 12995);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -29039,7 +29039,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 253, 6, 12857);
+    			add_location(img, file, 253, 6, 12810);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -29137,7 +29137,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 249, 8, 12469);
+    			add_location(img, file, 249, 8, 12422);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -29235,7 +29235,7 @@ var app = (function () {
     			set_style(img, "display", "block");
     			set_style(img, "margin", "0 auto");
     			attr_dev(img, "alt", "Women in Horror Banner");
-    			add_location(img, file, 245, 6, 12074);
+    			add_location(img, file, 245, 6, 12027);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, img, anchor);
@@ -29391,58 +29391,56 @@ var app = (function () {
     	let h1;
     	let t4;
     	let h2;
-    	let t5;
-    	let a;
-    	let t7;
+    	let t6;
     	let div2;
-    	let t8;
+    	let t7;
     	let div3;
     	let p0;
-    	let t9;
+    	let t8;
     	let br0;
-    	let t10;
+    	let t9;
     	let br1;
-    	let t11;
+    	let t10;
     	let br2;
-    	let t12;
+    	let t11;
     	let br3;
-    	let t13;
+    	let t12;
     	let br4;
-    	let t14;
+    	let t13;
     	let br5;
-    	let t15;
+    	let t14;
     	let br6;
-    	let t16;
+    	let t15;
     	let br7;
-    	let t17;
+    	let t16;
     	let br8;
-    	let t18;
+    	let t17;
     	let br9;
+    	let t18;
     	let t19;
-    	let t20;
     	let div6;
     	let div4;
     	let scrolly;
     	let updating_value;
-    	let t21;
+    	let t20;
     	let div5;
     	let current_block_type_index;
     	let if_block;
     	let div5_resize_listener;
-    	let t22;
+    	let t21;
     	let div7;
     	let p1;
-    	let t24;
+    	let t23;
     	let p2;
-    	let t26;
+    	let t25;
     	let br10;
-    	let t27;
+    	let t26;
     	let br11;
-    	let t28;
+    	let t27;
     	let br12;
-    	let t29;
+    	let t28;
     	let br13;
-    	let t30;
+    	let t29;
     	let br14;
     	let current;
 
@@ -29520,58 +29518,56 @@ var app = (function () {
     			h1.textContent = "How do the most popular horror movies of all time depict its leading ladies?";
     			t4 = space();
     			h2 = element("h2");
-    			t5 = text$1("By ");
-    			a = element("a");
-    			a.textContent = "Christina Li";
-    			t7 = space();
+    			h2.textContent = "By Christina Li";
+    			t6 = space();
     			div2 = element("div");
-    			t8 = space();
+    			t7 = space();
     			div3 = element("div");
     			p0 = element("p");
-    			t9 = text$1("I didn't always like horror movies.\n    ");
+    			t8 = text$1("I didn't always like horror movies.\n    ");
     			br0 = element("br");
-    			t10 = space();
+    			t9 = space();
     			br1 = element("br");
-    			t11 = text$1("\n    Used The Pudding Sci-Fi and Five Thirty Eight The Next Bechdel Test as a guide for movie analysis.\n    ");
+    			t10 = text$1("\n    Used The Pudding Sci-Fi and Five Thirty Eight The Next Bechdel Test as a guide for movie analysis.\n    ");
     			br2 = element("br");
-    			t12 = space();
+    			t11 = space();
     			br3 = element("br");
-    			t13 = text$1("\n    In order to categorize and analyze common themes found in horror movies, I did some preliminary research for existing literature on the representation of women in horror films.\n    ");
+    			t12 = text$1("\n    In order to categorize and analyze common themes found in horror movies, I did some preliminary research for existing literature on the representation of women in horror films.\n    ");
     			br4 = element("br");
-    			t14 = space();
+    			t13 = space();
     			br5 = element("br");
-    			t15 = text$1("\n    Looking at the top 400 movies of all time because they are the most watched and most discussed. These movies are the most culturally relevant, contributing to ongoing discussions on the real-life treatment of women.\n    ");
+    			t14 = text$1("\n    Looking at the top 400 movies of all time because they are the most watched and most discussed. These movies are the most culturally relevant, contributing to ongoing discussions on the real-life treatment of women.\n    ");
     			br6 = element("br");
-    			t16 = space();
+    			t15 = space();
     			br7 = element("br");
-    			t17 = text$1("\n    First, curious about the gender breakdown of horror movies. \n    ");
+    			t16 = text$1("\n    First, curious about the gender breakdown of horror movies. \n    ");
     			br8 = element("br");
-    			t18 = space();
+    			t17 = space();
     			br9 = element("br");
-    			t19 = text$1("\n    WARNING: SPOILERS AHEAD!");
-    			t20 = space();
+    			t18 = text$1("\n    WARNING: SPOILERS AHEAD!");
+    			t19 = space();
     			div6 = element("div");
     			div4 = element("div");
     			create_component(scrolly.$$.fragment);
-    			t21 = space();
+    			t20 = space();
     			div5 = element("div");
     			if_block.c();
-    			t22 = space();
+    			t21 = space();
     			div7 = element("div");
     			p1 = element("p");
     			p1.textContent = "More blah blah";
-    			t24 = space();
+    			t23 = space();
     			p2 = element("p");
     			p2.textContent = "blah blah";
-    			t26 = space();
+    			t25 = space();
     			br10 = element("br");
-    			t27 = space();
+    			t26 = space();
     			br11 = element("br");
-    			t28 = space();
+    			t27 = space();
     			br12 = element("br");
-    			t29 = space();
+    			t28 = space();
     			br13 = element("br");
-    			t30 = space();
+    			t29 = space();
     			br14 = element("br");
     			if (!src_url_equal(img.src, img_src_value = "./img/women-in-horror-banner.png")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "Women in Horror Banner");
@@ -29584,47 +29580,44 @@ var app = (function () {
     			add_location(section0, file, 72, 0, 2609);
     			attr_dev(h1, "class", "svelte-z0r2s5");
     			add_location(h1, file, 83, 4, 2981);
-    			attr_dev(a, "href", "www.linkedin.com/in/christinamli");
-    			attr_dev(a, "class", "svelte-z0r2s5");
-    			add_location(a, file, 84, 11, 3078);
     			attr_dev(h2, "class", "svelte-z0r2s5");
     			add_location(h2, file, 84, 4, 3071);
     			attr_dev(div1, "class", "hero svelte-z0r2s5");
     			add_location(div1, file, 81, 2, 2920);
     			attr_dev(div2, "class", "spacer svelte-z0r2s5");
-    			add_location(div2, file, 86, 2, 3154);
-    			add_location(br0, file, 89, 4, 3248);
-    			add_location(br1, file, 90, 4, 3257);
-    			add_location(br2, file, 92, 4, 3369);
-    			add_location(br3, file, 93, 4, 3378);
-    			add_location(br4, file, 95, 4, 3568);
-    			add_location(br5, file, 96, 4, 3577);
-    			add_location(br6, file, 98, 4, 3806);
-    			add_location(br7, file, 99, 4, 3815);
-    			add_location(br8, file, 101, 4, 3889);
-    			add_location(br9, file, 102, 4, 3898);
+    			add_location(div2, file, 86, 2, 3107);
+    			add_location(br0, file, 89, 4, 3201);
+    			add_location(br1, file, 90, 4, 3210);
+    			add_location(br2, file, 92, 4, 3322);
+    			add_location(br3, file, 93, 4, 3331);
+    			add_location(br4, file, 95, 4, 3521);
+    			add_location(br5, file, 96, 4, 3530);
+    			add_location(br6, file, 98, 4, 3759);
+    			add_location(br7, file, 99, 4, 3768);
+    			add_location(br8, file, 101, 4, 3842);
+    			add_location(br9, file, 102, 4, 3851);
     			attr_dev(p0, "class", "svelte-z0r2s5");
-    			add_location(p0, file, 88, 4, 3205);
+    			add_location(p0, file, 88, 4, 3158);
     			attr_dev(div3, "class", "content svelte-z0r2s5");
-    			add_location(div3, file, 87, 2, 3179);
+    			add_location(div3, file, 87, 2, 3132);
     			attr_dev(div4, "class", "steps-container svelte-z0r2s5");
-    			add_location(div4, file, 108, 4, 3990);
+    			add_location(div4, file, 108, 4, 3943);
     			attr_dev(div5, "class", "sticky svelte-z0r2s5");
     			add_render_callback(() => /*div5_elementresize_handler*/ ctx[20].call(div5));
-    			add_location(div5, file, 235, 4, 11455);
+    			add_location(div5, file, 235, 4, 11408);
     			attr_dev(div6, "class", "section-container svelte-z0r2s5");
-    			add_location(div6, file, 107, 2, 3953);
+    			add_location(div6, file, 107, 2, 3906);
     			attr_dev(p1, "class", "svelte-z0r2s5");
-    			add_location(p1, file, 278, 4, 14812);
+    			add_location(p1, file, 278, 4, 14765);
     			attr_dev(p2, "class", "svelte-z0r2s5");
-    			add_location(p2, file, 279, 4, 14838);
-    			add_location(br10, file, 280, 4, 14860);
-    			add_location(br11, file, 281, 4, 14869);
-    			add_location(br12, file, 282, 4, 14878);
-    			add_location(br13, file, 283, 4, 14887);
-    			add_location(br14, file, 284, 4, 14896);
+    			add_location(p2, file, 279, 4, 14791);
+    			add_location(br10, file, 280, 4, 14813);
+    			add_location(br11, file, 281, 4, 14822);
+    			add_location(br12, file, 282, 4, 14831);
+    			add_location(br13, file, 283, 4, 14840);
+    			add_location(br14, file, 284, 4, 14849);
     			attr_dev(div7, "class", "content svelte-z0r2s5");
-    			add_location(div7, file, 277, 2, 14786);
+    			add_location(div7, file, 277, 2, 14739);
     			add_location(section1, file, 79, 0, 2858);
     		},
     		l: function claim(nodes) {
@@ -29642,56 +29635,54 @@ var app = (function () {
     			append_dev(div1, h1);
     			append_dev(div1, t4);
     			append_dev(div1, h2);
-    			append_dev(h2, t5);
-    			append_dev(h2, a);
-    			append_dev(section1, t7);
+    			append_dev(section1, t6);
     			append_dev(section1, div2);
-    			append_dev(section1, t8);
+    			append_dev(section1, t7);
     			append_dev(section1, div3);
     			append_dev(div3, p0);
-    			append_dev(p0, t9);
+    			append_dev(p0, t8);
     			append_dev(p0, br0);
-    			append_dev(p0, t10);
+    			append_dev(p0, t9);
     			append_dev(p0, br1);
-    			append_dev(p0, t11);
+    			append_dev(p0, t10);
     			append_dev(p0, br2);
-    			append_dev(p0, t12);
+    			append_dev(p0, t11);
     			append_dev(p0, br3);
-    			append_dev(p0, t13);
+    			append_dev(p0, t12);
     			append_dev(p0, br4);
-    			append_dev(p0, t14);
+    			append_dev(p0, t13);
     			append_dev(p0, br5);
-    			append_dev(p0, t15);
+    			append_dev(p0, t14);
     			append_dev(p0, br6);
-    			append_dev(p0, t16);
+    			append_dev(p0, t15);
     			append_dev(p0, br7);
-    			append_dev(p0, t17);
+    			append_dev(p0, t16);
     			append_dev(p0, br8);
-    			append_dev(p0, t18);
+    			append_dev(p0, t17);
     			append_dev(p0, br9);
-    			append_dev(p0, t19);
-    			append_dev(section1, t20);
+    			append_dev(p0, t18);
+    			append_dev(section1, t19);
     			append_dev(section1, div6);
     			append_dev(div6, div4);
     			mount_component(scrolly, div4, null);
-    			append_dev(div6, t21);
+    			append_dev(div6, t20);
     			append_dev(div6, div5);
     			if_blocks[current_block_type_index].m(div5, null);
     			div5_resize_listener = add_iframe_resize_listener(div5, /*div5_elementresize_handler*/ ctx[20].bind(div5));
-    			append_dev(section1, t22);
+    			append_dev(section1, t21);
     			append_dev(section1, div7);
     			append_dev(div7, p1);
-    			append_dev(div7, t24);
+    			append_dev(div7, t23);
     			append_dev(div7, p2);
-    			append_dev(div7, t26);
+    			append_dev(div7, t25);
     			append_dev(div7, br10);
-    			append_dev(div7, t27);
+    			append_dev(div7, t26);
     			append_dev(div7, br11);
-    			append_dev(div7, t28);
+    			append_dev(div7, t27);
     			append_dev(div7, br12);
-    			append_dev(div7, t29);
+    			append_dev(div7, t28);
     			append_dev(div7, br13);
-    			append_dev(div7, t30);
+    			append_dev(div7, t29);
     			append_dev(div7, br14);
     			current = true;
     		},
