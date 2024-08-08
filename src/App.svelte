@@ -86,7 +86,7 @@
   </div>
   <div class='spacer' />
   <div class="content">
-    <p>I didn't always like horror movies.
+    <p>I didn't always like horror movies. In fact, I tended to avoid the genre altogether.
     <br>
     <br>
     Used The Pudding Sci-Fi and Five Thirty Eight The Next Bechdel Test as a guide for movie analysis.
