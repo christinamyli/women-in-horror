@@ -82,7 +82,7 @@
   <div class='hero'>
     <!-- <h1>Women in Horror</h1> -->
     <h1>How do the most popular horror movies of all time depict its leading ladies?</h1>
-    <h2>By <a href="www.linkedin.com/in/christinamli">Christina Li</a></h2>
+    <h2>By Christina Li</h2>
   </div>
   <div class='spacer' />
   <div class="content">
