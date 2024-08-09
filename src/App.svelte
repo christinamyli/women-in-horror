@@ -166,11 +166,12 @@
                 Next, let's look at how many women are portrayed as monsters.
                 <br>
                 <br>
-                <a href="https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597">"The Monstrous-Feminine"</a> by Barbara Creed talks about how women in horror movies are often shown as monstrous figures - the "monstrous" being the female reproductive body.
+                <a href="https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597">The Monstrous-Feminine</a> by Barbara Creed talks about how women in horror movies are often shown as monstrous figures, the "monstrous" being the female reproductive body.
+                These portrayals tap into cultural fears and taboos about women's bodies, such as having powers that threaten male characters or giving birth to something monstrous.
                 <br>
                 <br>
-                Using her book as a framework for analyzing the portrayal of women in horror movies, I gave Chat GPT 4.o the book blurb which defines "the monstrous-feminine"
-                as 7 categories, including archaic mother, monstrous womb, vampire, witch, possessed body, monstrous mother and castrator.
+                Using her book as a framework for analyzing the portrayal of women in horror movies, I gave Chat GPT 4.o the book blurb which breaks down "the monstrous-feminine"
+                into 7 categories, including archaic mother, monstrous womb, vampire, witch, possessed body, monstrous mother and castrator.
                 <br>
                 <br>
                 How many horror movies depict its female protagonist as a <a class='bg-tag gray-bg'>monster</a> versus <a class='bg-tag pink-bg'>not a monster</a>?</p>
@@ -220,14 +221,16 @@
                   Even when there is a woman leading the movie, more of their stories are ultimately about <a class='bg-tag pink-bg'>female victimization</a> than <a class='bg-tag gray-bg'>female empowerment</a>.
                 <br>
                 <br>
-                In order to assess empowerment, I used one of the prompts from <a href="https://projects.fivethirtyeight.com/next-bechdel/">FiveThirtyEight's "The Next Bechdel Test"</a> as a starting point, which has the following conditions:
+                In order to assess empowerment, I used one of the prompts from Five Thirty Eight's<a href="https://projects.fivethirtyeight.com/next-bechdel/">The Next Bechdel Test</a> as a starting point, which has the following conditions:
                   <br>
                 -The female lead has dimension and exists authentically with needs and desires that she pursues through dramatic action
                 <br>
                 -And the audience can empathize with or understand the female lead’s desires and actions
                 <br>
                 <br>
-                I then added more definitions for empowerment versus victimization, so Chat GPT 4.o would have more clear knowledge of how to categorize.
+                I then added more definitions for empowerment versus victimization, so Chat GPT 4.o would have more clear knowledge of how to categorize: 
+                "Additionally, empowerment is defined as the protagonist is able to overcome physical or psychological threats, and she is able to gain agency and autonomy during the movie's runtime. The movie is more about her taking control over her own story.
+                Victimization, on the other hand, can be defined as the protagonist is subjected to physical or psychological threats for most of the movie's runtime, and she is not able to gain agency or autonomy. The movie is more about her immediate survival."
                 </p>
               {:else if text == 'n'}
                 <p>Some examples of stories centered around 
