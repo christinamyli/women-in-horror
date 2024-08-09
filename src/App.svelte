@@ -101,7 +101,7 @@
     Looking at the top 400 movies of all time because they are the most watched and most discussed. These movies are the most culturally relevant, contributing to ongoing discussions on the real-life treatment of women.
     <br>
     <br>
-    First, curious about the gender breakdown of horror movies. 
+    First, curious about the gender breakdown of horror movies. </p>
     <br>
     <br>
     <div class="chart">
@@ -109,7 +109,7 @@
       </div>
     <br>
     <br>
-    WARNING: SPOILERS AHEAD!
+    <p>WARNING: SPOILERS AHEAD!</p>
   </div>
 
   <div class= 'section-container'>
@@ -287,8 +287,7 @@
 
   
   <div class="content">
-    <p>More blah blah</p>
-    <p> blah blah</p>
+    <p>Methodology section to come.</p>
     <br>
     <br>
     <br>
@@ -317,6 +316,7 @@
 
   .chart {
     text-align: center;
+    justify-content: center;
   }
 
   h1 {
