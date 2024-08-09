@@ -222,16 +222,16 @@
                 <br>
                 In order to assess empowerment, I used one of the prompts from Five Thirty Eight's <a href="https://projects.fivethirtyeight.com/next-bechdel/">The Next Bechdel Test</a> as a starting point, which has the following conditions:
                   <br>
-                  <span class="code-font">-The female lead has dimension and exists authentically with needs and desires that she pursues through dramatic action
+                  <span class="code-font">- The female lead has dimension and exists authentically with needs and desires that she pursues through dramatic action
                 <br>
-                -And the audience can empathize with or understand the female lead’s desires and actions</span>
+                - And the audience can empathize with or understand the female lead's desires and actions</span>
                 <br>
                 <br>
-                I then added more definitions for empowerment versus victimization, so Chat GPT 4.o would have more clear knowledge of how to categorize: 
+                I then added more definitions for empowerment versus victimization, so Chat GPT 4.o would have clearer knowledge of how to categorize each movie: 
                 <br>
-                <span class="code-font">Additionally, empowerment is defined as the protagonist is able to overcome physical or psychological threats, and she is able to gain agency and autonomy during the movie's runtime. The movie is more about her taking control over her own story.
+                <span class="code-font">- Additionally, empowerment is defined as the protagonist is able to overcome physical or psychological threats, and she is able to gain agency and autonomy during the movie's runtime. The movie is more about her taking control over her own story
                 <br>
-                  Victimization, on the other hand, can be defined as the protagonist is subjected to physical or psychological threats for most of the movie's runtime, and she is not able to gain agency or autonomy. The movie is more about her immediate survival.</span>
+                  - Victimization, on the other hand, can be defined as the protagonist is subjected to physical or psychological threats for most of the movie's runtime, and she is not able to gain agency or autonomy. The movie is more about her immediate survival</span>
                 </p>
               {:else if text == 'n'}
                 <p>Some examples of stories centered around 
