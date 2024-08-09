@@ -88,7 +88,8 @@
   <div class="content">
     <p>I didn't always like horror movies. In fact, I tended to avoid the genre altogether. But some time in the last few years, I started to take notice in how entertaining yet insightful
       horror movies could be in their social commentary. My appreciation for the horror genre has only grown as I discovered more horror movies with complex female characters that captured
-      all of the intense emotions women experience - their fear, rage, claustrophobia, quest for revenge or justice felt like my own.
+      all of the intense emotions women experience - their fear, rage, claustrophobia, quest for revenge or justice felt like my own. Horror movies of today are unlike the ones in the
+      1970s and prior, slasher flicks that target women as victims to be disposed of. 
     <br>
     <br>
     Used The Pudding Sci-Fi and Five Thirty Eight The Next Bechdel Test as a guide for movie analysis.
@@ -101,6 +102,9 @@
     <br>
     <br>
     First, curious about the gender breakdown of horror movies. 
+    <br>
+    <br>
+    <img src="./img/Bar-Chart.png" style="width: 1000px; height: auto; display: block; margin: 0 auto;" alt="Women in Horror Banner"> 
     <br>
     <br>
     WARNING: SPOILERS AHEAD!
