@@ -81,27 +81,22 @@
   <!-- Section content with scrolly telling -->
   <div class='hero'>
     <!-- <h1>Women in Horror</h1> -->
-    <h1>How do the most popular horror movies of all time depict its leading ladies?</h1>
+    <h1>How do the most popular horror movies of all time depict their leading ladies?</h1>
     <h2>By Christina Li</h2>
   </div>
   <div class='spacer' />
   <div class="content">
      <p> I didn't always like horror movies. In fact, I tended to avoid the genre altogether. But some time in the last few years, I started to take notice in how entertaining yet insightful
       horror movies could be in their social commentary. My appreciation for the horror genre has only grown as I discovered more horror movies with complex female characters that captured
-      all of the intense emotions women experience - their fear, rage, claustrophobia, quest for revenge or justice felt like my own. Horror movies of today are unlike the ones in the
-      1970s and prior, slasher flicks that target women as victims to be disposed of. 
+      all of the intense emotions women experience - their fear, rage, claustrophobia, quest for revenge or justice felt like experiences I could relate to. Horror movies of today are unlike the ones in the
+      1970s and prior, slasher flicks that target women as victims to be disposed of.
     <br>
     <br>
-    Used The Pudding Sci-Fi and Five Thirty Eight The Next Bechdel Test as a guide for movie analysis.
-    <br>
-    <br>
-    In order to categorize and analyze common themes found in horror movies, I did some preliminary research for existing literature on the representation of women in horror films.
+    With this in mind, I wanted to look at the portrayal of women in the top horror movies of all time. In order to carry out this movie analysis, I first referred to The Pudding's sci-fi analysis, along with
+    Five Thirty Eight's The Next Bechdel Test. To categorize and analyze common themes found in horror movies, I did research on existing literature on the representation of women in horror films.
     <br>
     <br>
     Looking at the top 400 movies of all time because they are the most watched and most discussed. These movies are the most culturally relevant, contributing to ongoing discussions on the real-life treatment of women.
-    <br>
-    <br>
-    First, curious about the gender breakdown of horror movies. </p>
     <br>
     <br>
     <div class="chart">
@@ -109,7 +104,7 @@
       </div>
     <br>
     <br>
-    <p>WARNING: SPOILERS AHEAD!</p>
+    WARNING: SPOILERS AHEAD!
   </div>
 
   <div class= 'section-container'>
@@ -287,7 +282,8 @@
 
   
   <div class="content">
-    <p>Methodology section to come.</p>
+    <p>More blah blah</p>
+    <p> blah blah</p>
     <br>
     <br>
     <br>
