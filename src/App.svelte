@@ -104,7 +104,7 @@
     First, curious about the gender breakdown of horror movies. 
     <br>
     <br>
-    <div class="photo-container">
+    <div class="chart">
       <img src="./img/Bar-Chart.png" style="width: 1000px; height: auto; display: block; margin: 0 auto;" alt="Women in Horror Banner"> 
       </div>
     <br>
@@ -313,6 +313,10 @@
     font-style: italic; /* Italicize the caption */
     margin-top: 10px; /* Add some space between the image and the caption */
     font-size: 12px;
+  }
+
+  .chart {
+    text-align: center;
   }
 
   h1 {
