@@ -108,13 +108,14 @@
     By comparing the top 400 movies in the horror genre to other genres, it's clear that horror is a genre that is quite gendered, similar to romance genre, where nearly half of the top movies have a woman in the leading role.
     <br>
     <br>
+    </p>
+    </div>
     <div class="chart">
       <img src="./img/Bar-Chart.png" style="width: 1000px; height: auto; display: block; margin: 0 auto;" alt="Women in Horror Banner"> 
       </div>
     <br>
     <br>
     <p>WARNING: SPOILERS AHEAD!</p>
-  </div>
 
   <div class= 'section-container'>
     <div class='steps-container'>
@@ -291,8 +292,8 @@
 
   
   <div class="content">
-    <p>More blah blah</p>
-    <p> blah blah</p>
+    <p>Methodology section to come soon.</p>
+    <p>Svelte template can be found <a href="https://svelte.dev/repl/ea206af4d7bc454f969ee6e31fb545b0?version=4.1.1">here</a>.</p>
     <br>
     <br>
     <br>
@@ -320,8 +321,8 @@
   }
 
   .chart {
-    text-align: right;
-    justify-content: right;
+    text-align: center;
+    justify-content: center;
   }
 
   h1 {
