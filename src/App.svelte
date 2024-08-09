@@ -92,20 +92,21 @@
       1970s and prior, which were slasher flicks that targeted women as victims to be disposed of.
     <br>
     <br>
-    With this in mind, I wanted to look at the portrayal of women in the top horror movies of all time. In order to carry out this movie analysis, I first referred to The Pudding's sci-fi analysis<a href="https://pudding.cool/2024/07/scifi/">Who Killed the World?</a>, along with
+    With this in mind, I wanted to look at the portrayal of women in the top horror movies of all time. In order to carry out this movie analysis, I first referred to The Pudding's sci-fi analysis <a href="https://pudding.cool/2024/07/scifi/">Who Killed the World?</a>, along with
     Five Thirty Eight's <a href="https://projects.fivethirtyeight.com/next-bechdel/">The Next Bechdel Test</a>.
     <br>
     <br>
     To categorize and analyze common themes found in horror movies, I did research on existing literature on the representation of women in horror films.
     Ultimately, I used <a href="https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597">Monstrous-Feminine</a> by Barbara Creed to look at how women are depicted as monstrous figures in horror movies, as well as
     <a href="https://digitalcommons.pace.edu/cgi/viewcontent.cgi?article=1216&context=honorscollege_theses">Fears and the Female Circumstance: Women in 1970s Horror Films</a> by Lorian Gish as a guide for creating theme categories related to womanhood.
+    By analyzing horror movies through a feminist lens, we can see how these films reinforce certain ideas about women, including deep-seated fears and anxieties about womanhood.
     <br>
     <br>
     The top 400 movies of all time were evaluated because they are the most watched and most discussed.
     These movies are the most culturally relevant, contributing to ongoing discussions on the real-life treatment of women.
     <br>
     <br>
-    By comparing the top 400 movies in the horror genre to other genres, it's clear that horror is a genre that is quite gendered, similar to romance genre, where nearly half of the top movies have a woman in the leading role.
+    By comparing the top 400 movies in horror to other genres, it's clear that horror is a genre that is quite gendered. Similar to romance genre, nearly half of the top movies have a woman in the leading role.
     <br>
     <br>
     </p>
@@ -115,7 +116,9 @@
       </div>
     <br>
     <br>
+    <div class="content">
     <p>WARNING: SPOILERS AHEAD!</p>
+  </div>
 
   <div class= 'section-container'>
     <div class='steps-container'>
@@ -160,7 +163,7 @@
               For each movie, there is an explanation provided by ChatGPT 4.o as to how it categorized it.</p>
               {:else if text === 'd'}
               <p>
-                Next, I wanted to look at monsters.
+                Next, let's look at how many women are portrayed as monsters.
                 <br>
                 <br>
                 <a href="https://www.routledge.com/The-Monstrous-Feminine-Film-Feminism-Psychoanalysis/Creed/p/book/9780415052597">"The Monstrous-Feminine"</a> by Barbara Creed talks about how women in horror movies are often shown as monstrous figures - the "monstrous" being the female reproductive body.
@@ -177,7 +180,7 @@
               <p>The horror genre can hold up a mirror to society, as a way to explore real fears and anxieties that people experience.
                 <br>
                 <br>
-                In horror, the female body becomes a site of terror and conflict.
+                The female body is often portrayed as grotesque or deformed in some way, making it a source of horror.
                 <br>
                 <br>
                 What fears and anxieties related to womanhood, especially as it relates to the female body, do horror movies reflect?
